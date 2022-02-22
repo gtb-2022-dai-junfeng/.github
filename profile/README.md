@@ -1,5 +1,5 @@
 # There Will Come Soft Rains
-![header](../assets/vault_boy.jpg)
+![header](assets/vault_boy.jpg)
 There will come soft rains and the smell of the ground,
 
 and swallows circling with their shimmering sound;
